@@ -1,0 +1,8 @@
+*.tree
+*.svg
+*.pdf
+.Rhistory
+.DS_Store
+.venv
+.data_downloaded
+.R_packages
